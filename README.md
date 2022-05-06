@@ -1,4 +1,6 @@
-# autoupdate_cubesats
-Proyecto en Java para la obtención de internet de códigos TLE para satélites Cubesats seleccionados previamente en un archivo CSV
+# App. para obtener los TLE actuales de CubeSats específicos 🛰️
 
-Nota: El archivo cubesats_csv.csv debe estar en la misma carpeta de ejecución que el JAR.
+_Aplicación desarrollada en Java con el fin de obtener de internet los códigos TLE para satélites CubeSats preseleccionados previamente en un archivo CSV._
+
+---
+_Proyecto realizado bajo el grupo de investigación LIDER_
