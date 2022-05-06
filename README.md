@@ -1,4 +1,4 @@
-# App. para obtener los TLE actuales de CubeSats específicos 🛰️
+# Aplicativo para obtener los TLE actuales de CubeSats específicos 🛰️
 
 Aplicación desarrollada en Java con el fin de obtener de internet los códigos TLE para satélites CubeSats preseleccionados previamente en un archivo CSV. El archivo de texto resultante cumple con el formato del software Orbitrón para predecir en qué momento un CubeSat transitará una zona del mundo en específico.
 
