@@ -55,13 +55,13 @@ De esta manera, en el panel derecho de Orbitron se encontrará la lista de saté
 
 ![Pantalla Orbitron](https://github.com/mateoyateg/autoupdate_cubesats/blob/main/img/img6.jpg)
 
-## Desarrollo del Aplicativo 🛠️
+## Proceso de desarrollo del Aplicativo 🔧
 
 Para el desarrollo de este aplicativo se optó por emplear la libreria JSoup que permite realizar web scrapping empleando el lenguaje Java de una manera sencilla. Esta se encuentra alojada en este repositorio o puede ser descargada [aquí](https://jsoup.org/download).
 
 A manera de resúmen, el aplicativo funciona en las fases descritas a continuación:
 
-### 1. Carga de los CubeSats dispuestos en el archivo CSV
+### 1. Carga de los CubeSats dispuestos en el archivo CSV 📂
 
 En esta fase se carga el archivo CSV empleando el Buffer Reader de Java apuntando directamente al archivo en cuestión. Este procedimiento se encuentra almacenado en la clase autoupdate_cubesats.java dentro del método _cargarSatsTLE()_ que almacena la información de cada uno de los CubeSats en un _ArrayList_ global para ser utilizado posteriormente.
 
